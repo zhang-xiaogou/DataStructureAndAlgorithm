@@ -41,5 +41,7 @@ public class PopSort {
             System.out.print(" ");
         }
         System.out.println();
+
+        System.out.println();
     }
 }
